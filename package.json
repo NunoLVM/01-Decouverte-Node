@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/dessna12/01-Decouverte-Node/issues"
   },
-  "homepage": "https://github.com/dessna12/01-Decouverte-Node#readme"
+  "homepage": "https://github.com/dessna12/01-Decouverte-Node#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
